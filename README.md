@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**next-pixel/next-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Krunal Shah, a Software Engineer based in Ahmedabad, Gujarat specializing in building Web Applications, APIs and Desktop Application using (ASP).NET Core and related Stack with Clean Architecture.
 
-Here are some ideas to get you started:
+- 🌱 I write detailed articles, tutorials and guides for ASP.NET Core at my blog [codewithmukesh](http://www.codewithmukesh.com).
+- 🤔 I’m pretty active on [twitter](https://twitter.com/iammukeshm).
+- 📫 Connect and reach me on [LinkedIn](https://www.linkedin.com/in/iammukeshm).
+- 😄 Pronouns: he/him/his
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=next-pixel" alt="next-pixel" /> </p>
+
+<p align="left">  
+  <img src="https://github-readme-stats.vercel.app/api?username=next-pixel&show_icons=false" alt="next-pixel" />
+ </p>
