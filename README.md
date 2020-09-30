@@ -12,3 +12,6 @@ I’m Krunal Shah, a Software Engineer based in Ahmedabad, Gujarat specializing 
 <p align="left">  
   <img src="https://github-readme-stats.vercel.app/api?username=next-pixel&show_icons=false" alt="next-pixel" />
  </p>
+ <p>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  </p>
