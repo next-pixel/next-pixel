@@ -8,9 +8,9 @@ I’m Krunal Shah, a Software Engineer based in Ahmedabad, Gujarat specializing 
 - 😄 Pronouns: he/him/his
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=next-pixel" alt="next-pixel" /> </p>
-<table>
+<table style="border:0px">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=next-pixel&show_icons=false" alt="next-pixel" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=next-pixel&show_icons=true&theme=radical" alt="next-pixel" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=next-pixel&layout=compact" alt="next-pixel" /></td>
   </tr>
   </table>
