@@ -10,5 +10,5 @@ I’m Krunal Shah, a Software Engineer based in Ahmedabad, Gujarat specializing 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=next-pixel" alt="next-pixel" /> </p>
 <img src="https://github-readme-stats.vercel.app/api?username=next-pixel&show_icons=true&theme=vue" alt="next-pixel" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=next-pixel&layout=compact&theme=vue" alt="next-pixel" />
-    ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+    <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox" alt="next-pixel" />
 
