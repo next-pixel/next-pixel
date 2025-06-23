@@ -11,4 +11,5 @@ I’m Krunal Shah, a Software Engineer based in Ahmedabad, Gujarat specializing 
 <img src="https://github-readme-stats.vercel.app/api?username=next-pixel&show_icons=true&theme=vue" alt="next-pixel" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=next-pixel&layout=compact&theme=vue" alt="next-pixel" />
     <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox" alt="next-pixel" />
-
+### 🔝 Top Contributed Repo
+<img src="https://github-contributor-stats.vercel.app/api?username=next-pixel&limit=5&theme=cobalt&combine_all_yearly_contributions=true" alt="next-pixel" />
